@@ -40,7 +40,6 @@ jupyter notebook
 
 - **Math first, then code.** Every algorithm comes with its derivation.
 - **Build it, then compare it.** Write it from scratch, then check it against the library version.
-- **Intuition over memorization.** If you can't explain why it works, you don't really know it yet.
 
 ## 🤝 Feedback
 
@@ -48,4 +47,4 @@ Found a bug, have a question, or want a topic covered? Open an issue or reach ou
 
 ---
 
-Made by **Nijash Sooriyakumaran** (Nj)
+Made by **Nijash Sooriyakumaran** 
