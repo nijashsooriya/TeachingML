@@ -19,7 +19,7 @@ If a video left you with questions, the code here is the place to dig in.
 | Topic | What you'll learn | Where |
 |---|---|---|
 | **Linear Regression** | Least squares from scratch, the geometry of the solution, gradient descent vs. the closed form | `LinearRegressionTeaching.ipynb` |
-| **Random Forests on EMNIST** | Decision trees, bagging, and ensembles applied to handwritten character recognition | `RF_EMNIST/` |
+| **Random Forests on EMNIST** | Decision trees, bagging, and ensembles applied to handwritten character recognition | `EMNIST_RF.ipynb` |
 
 ### 🔜 Coming soon
 
